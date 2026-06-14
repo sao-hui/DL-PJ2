@@ -1,1 +1,3 @@
-# DL-PJ2
+报告及实验结果图在PJ2_2026/reports中，为运行所有实验，在VGG_Loss_Landscape.py外新建了train_models.py
+
+模型权重链接：https://drive.google.com/drive/folders/1ejgAN77RNrquq0uMesTqmDRiteMFqXZS
